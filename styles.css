@@ -219,16 +219,17 @@ img {
 
 .home_image{
     position: absolute;
-    right: 0;
+    right: 25rem;
     top: 12rem;
     bottom: 0;
-    width: 300px;
-    
+    width: 500px;
+    height: 250px;
 }
 
-.home_image svg{
+.home_image img{
     width: 100%;
 }
+
 
 
 /*buttons*/
